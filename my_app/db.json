@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nina Smith",
+      "username": "Bert",
+      "phone": "123-456-788",
+      "email": "nina.smith@gmail.com",
+      "website": "hiderfe.org"
+    },
+    {
+      "id": "2",
+      "name": "Kate Jons",
+      "username": "katee",
+      "phone": "1922121211111112",
+      "email": "kate.johns@gmail.com",
+      "website": "hiderfffee.org"
+    },
+    {
+      "id": "3",
+      "name": "Jon Doe",
+      "username": "JON DOEE",
+      "phone": "1212212",
+      "email": "jondoe@gmail.com",
+      "website": "johndoe.org"
+    },
+    {
+      "id": "5617",
+      "name": "Jane Holms",
+      "email": "janeholms@gmail.com",
+      "phone": "12345676756"
+    },
+    {
+      "id": "66af",
+      "name": "Sopy Jonss",
+      "email": "sopy.johns@gmail.com",
+      "phone": "10100100"
+    },
+    {
+      "id": "4778",
+      "name": "Julia Smith",
+      "email": "julia.smith@gmail.com",
+      "phone": "431293123"
+    }
+  ]
+}
